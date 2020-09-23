@@ -7,7 +7,7 @@
 ################
 
 $migrations += @{ 
-    old_site = "Accounting"; # old sharepoint URL w
+    old_site = "Accounting"; # old sharepoint URL had sites at / instead of /sites/
     new_site = "sites/Accounting";
     
     libraries = @{

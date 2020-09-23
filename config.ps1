@@ -2,7 +2,7 @@
 $root_path = (Get-Directory)
 
 # username / password combo 
-$new_username = 'tbundy@hurleyandassociates.com'
+$new_username = 'admin@exampletennant.onmicrosoft.com'
 $new_password = 'P@$$word'
 
 # fallback - if the creator/modifier user account no longer exists, attribute it to this user. Doesn't need a license.

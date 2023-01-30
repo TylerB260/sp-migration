@@ -9,7 +9,7 @@
 # Do not change anything below this line. Thanks! #
 ###################################################
   
-$old_url = "https://onpremise.hurleynet.us"
+$old_url = "https://onpremise.company.local"
 $new_url = "https://exampletennant.sharepoint.com"
 
 Set-Location $PSScriptRoot
